@@ -36,7 +36,6 @@ Breaking in to strengthen the fort:
 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-1F8ACB?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-FFD700?style=for-the-badge&logo=metasploit&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-009CDE?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-48A842?style=for-the-badge&logo=owasp-zap&logoColor=white)
@@ -44,7 +43,6 @@ Breaking in to strengthen the fort:
 ![Hashcat](https://img.shields.io/badge/-Hashcat-20B2AA?style=for-the-badge&logo=hashcat&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white)
 ![BeEF](https://img.shields.io/badge/-BeEF-600000?style=for-the-badge&logo=beef&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
 ## 🎯 My Goals for 2024
