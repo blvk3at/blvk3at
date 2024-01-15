@@ -47,7 +47,7 @@ Breaking in to strengthen the fort:
 
 ## 🎯 My Goals for 2024
 - 🌐 To further dive into the depths of Cybersecurity and Network Architecture
-- 🤝 Collaborate on Open Source Security projects and contribute to a safer web
+- 🤝 Collaborate on / develop Open Source Security projects and contribute to a safer cyber space
 - 🎓 Enhance my VFX skills to visualize data security in engaging ways
 
 ## ⚡ Fun fact
